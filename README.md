@@ -12,7 +12,7 @@ El proyecto consta de varios archivos, entre los cuales se encuentra el archivo 
 
 2. El archivo index.html:
 
-Este archivo proporciona la estructura básica del proyecto. Incluye una sección de encabezado <header> que muestra el título principal de la página. A continuación, se encuentra una barra de navegación <nav> que contiene una lista de enlaces a las páginas de "Hosting Compartido", "Servidores Privados", "Servidores Dedicados" y "Servidores Cloud". Cada enlace se representa mediante un elemento de lista <li>.
+Este archivo proporciona la estructura básica del proyecto. Incluye una sección de encabezado (header) que muestra el título principal de la página. A continuación, se encuentra una barra de navegación (nav) que contiene una lista de enlaces a las páginas de "Hosting Compartido", "Servidores Privados", "Servidores Dedicados" y "Servidores Cloud". Cada enlace se representa mediante un elemento de lista (li).
 
 3. El archivo styles.css:
   
