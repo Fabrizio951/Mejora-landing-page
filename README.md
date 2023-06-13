@@ -6,9 +6,9 @@ Introducción:
 
 El presente proyecto tiene como objetivo crear una página HTML que aborde los diferentes tipos de hosting y servidores. Los tipos que se abordarán son: Hosting Compartido, Servidores Privados, Servidores Dedicados y Servidores Cloud. A lo largo de este documento, se describirán las características, ventajas, diferencias, proveedores y el funcionamiento básico de cada uno de estos tipos.
 
-![ERROR AL SUBIR LA IMAGEN](mejimg/foto.png)
-
 ![ERROR AL SUBIR LA IMAGEN](mejimg/foto1.png)
+
+![ERROR AL SUBIR LA IMAGEN](mejimg/foto2.png)
 
 1. Estructura del proyecto:
 
